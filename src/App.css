@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.navigator {
+  cursor: pointer;
+}
+.navigator:hover {
+  color: blue;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.fixed-nav-margin {
+  margin-top: 70px;
+}
